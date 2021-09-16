@@ -1,0 +1,11 @@
+es:
+  helpers:
+    submit:
+      user:
+        create: "Guardar %{model}"
+  users:
+    create:
+      notice: 'Bienvenido a collectibles'
+    new:
+      form:
+        error: 'Ooops!! parece que algo salió mal'
